@@ -63,7 +63,7 @@
     "simple-sha1": "^2.0.0",
     "speedometer": "^0.1.2",
     "thunky": "^0.1.0",
-    "torrent-discovery": "^4.0.2",
+    "torrent-discovery": "^8.3.0",
     "ut_metadata": "^2.1.0",
     "ut_pex": "^1.0.1",
     "webtorrent-swarm": "0.x",
